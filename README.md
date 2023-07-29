@@ -11,11 +11,10 @@
 
 ### Languages and Tools :-
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,go" />
-<img src="https://skillicons.dev/icons?i=cpp,c,python,latex" />
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,neovim,vim,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,mongodb,go" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,latex,java,kotlin" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,neovim,vim,vscode,androidstudio" alt="tools" />
 
 <br />
 
-<p style="width: 100%; display: block;"><img src="https://github-readme-stats.vercel.app/api?username=awesomeDev12&show_icons=true&locale=en" alt="awesomeDev12" /></p>
+<p style="width: 100%; display: block;"><img src="https://github-readme-stats.vercel.app/api?username=awesomeDev12&show_icons=true&locale=en" alt="awesomeDev12 github stats" /></p>
