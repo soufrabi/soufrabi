@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anirban Dey</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awesomeDev12&label=Profile%20views&color=0e75b6&style=flat" alt="awesomeDev12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awesomeDev12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anirbandey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirbandey1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anirbandey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 <h3 align="left"> Check out my:</h3>
 
@@ -22,4 +22,4 @@
 
 <br />
 
-<p style="width: 100%; display: block;"><img src="https://github-readme-stats.vercel.app/api?username=awesomeDev12&show_icons=true&locale=en" alt="awesomeDev12 github stats" /></p>
+<p style="width: 100%; display: block;"><img src="https://github-readme-stats.vercel.app/api?username=awesomeDev12&show_icons=true&locale=en" alt="github stats" /></p>
