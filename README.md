@@ -1,12 +1,21 @@
-<h1 align=center> Hi there 👋 </h1>
+<h1 align="center">Hi 👋, I'm Anirban Dey</h1>
 
-<p align="center"> I am Anirban </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awesomeDev12&label=Profile%20views&color=0e75b6&style=flat" alt="awesomeDev12" /> </p>
 
 
-# Programming Languages(i know..):-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anirbandey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirbandey1" height="30" width="40" /></a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,c,python,mysql,mongodb,go,latex" />
 
-# Tools:-
+### Languages and Tools :-
 
-<img src="https://skillicons.dev/icons?i=docker,github,linux,neovim,vim,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,go" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,latex" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,neovim,vim,vscode,androidstudio" />
+
+<br />
+
+<p style="width: 100%; display: block;"><img src="https://github-readme-stats.vercel.app/api?username=awesomeDev12&show_icons=true&locale=en" alt="awesomeDev12" /></p>
