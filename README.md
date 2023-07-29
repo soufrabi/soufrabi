@@ -5,18 +5,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anirbandey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anirbandey1" target="blank"><img align="center" src="https://anirbandey1.github.io/assets/logos/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 <h3 align="left"> Check out my:</h3>
 
 - <h5> <a href="https://anirbandey1.github.io/site" target="blank">Personal Website</a> </h5>
-- <h5> <a href="https://anirbandey1.github.io/site-assets/assets/CV-AnirbanDey.pdf" target="blank">Curriculum Vitae</a> </h5>
+<!-- - <h5> <a href="https://anirbandey1.github.io/site-assets/assets/CV-AnirbanDey.pdf" target="blank">Curriculum Vitae</a> </h5> -->
 
 
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,mongodb,go" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,mongodb" />
 <img src="https://skillicons.dev/icons?i=cpp,c,python,latex,java,kotlin" />
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,neovim,vim,vscode,androidstudio" alt="tools" />
 
