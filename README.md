@@ -10,7 +10,7 @@
 <h3 align="left"> Check out my:</h3>
 
 - <h5> <a href="https://awesomeDev12.github.io/site" target="blank">Personal Website</a> </h5>
-- <h5> <a href="https://awesomeDev12.github.io/site/assets/CV-AnirbanDey.pdf" target="blank">Curriculum Vitae</a> </h5>
+- <h5> <a href="https://awesomeDev12.github.io/site-assets/assets/CV-AnirbanDey.pdf" target="blank">Curriculum Vitae</a> </h5>
 
 
 
