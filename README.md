@@ -9,7 +9,7 @@
 </p>
 <h3 align="left"> Check out my:</h3>
 
-- <h5> <a href="https://anirbandey.net" target="blank">Personal Website</a> </h5>
+- <h5> <a href="https://anirbandey.net" target="blank">anirbandey.net</a> </h5>
 
 
 
