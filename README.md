@@ -7,9 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anirbandey1" target="blank"><img align="center" src="https://anirbandey1.github.io/assets/logos/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
-<h3 align="left"> Check out my:</h3>
-
-- <h5> <a href="https://anirbandey.net" target="blank">anirbandey.net</a> </h5>
+<h3 align="left"> Visit my webpage : &nbsp <span style="font-family:monospace;" > <a href="https://anirbandey.net" target="blank">anirbandey.net</a> </span> </h3>
 
 
 
