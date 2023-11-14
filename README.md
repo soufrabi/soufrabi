@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anirban Dey</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbandey1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soufrabi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anirbandey1" target="blank"><img align="center" src="https://anirbandey1.github.io/assets/logos/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/anirbandey1" target="blank"><img align="center" src="https://soufrabi.github.io/assets/logos/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
-<h3 align="left"> Visit my webpage : &nbsp <span style="font-family:monospace;" > <a href="https://anirbandey.net" target="blank">anirbandey.net</a> </span> </h3>
+<h3 align="left"> Visit my webpage : &nbsp <span style="font-family:monospace;" > <a href="https://soufrabi.com" target="blank">soufrabi.com</a> </span> </h3>
 
 
 
@@ -19,4 +19,4 @@
 
 <br />
 
-<p style="width: 100%; display: block;"><img src="https://github-readme-stats.vercel.app/api?username=anirbandey1&show_icons=true&locale=en" alt="github stats" /></p>
+<p style="width: 100%; display: block;"><img src="https://github-readme-stats.vercel.app/api?username=soufrabi&show_icons=true&locale=en" alt="github stats" /></p>
