@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soufrabi" target="blank"><img align="center" src="https://soufrabi.github.io/assets/logos/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/anirbandey1" target="blank"><img align="center" src="https://soufrabi.github.io/assets/logos/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
 <!-- <h3 align="left"> Visit my webpage : &nbsp <span style="font-family:monospace;" > <a href="https://soufrabi.com" target="blank">soufrabi.com</a> </span> </h3> -->
 
