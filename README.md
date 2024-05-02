@@ -8,6 +8,7 @@
 <a href="https://linkedin.com/in/anirbandey1" target="blank"><img align="center" src="https://soufrabi.github.io/project-assets/logos/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
 <!-- <h3 align="left"> Visit my webpage : &nbsp <span style="font-family:monospace;" > <a href="https://soufrabi.com" target="blank">soufrabi.com</a> </span> </h3> -->
+<h3 align="left"> CV Link : &nbsp <span style="font-family:monospace;" > <a href="https://drive.google.com/file/d/1pB-GzhBWMxZKjzoJ6vegkLhGcQDj5Amq/view?usp=drive_link" target="blank">gdrive</a> </span> <span style="font-family:monospace;" > <a href="https://publicassets.soufrabi.com/pdfjs/web/viewer.html?file=raw/anirbandey/career/cv.pdf" target="blank">pdfjs</a> </span> </h3>
 
 
 
