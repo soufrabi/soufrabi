@@ -12,7 +12,7 @@
 </p>
 
 <p>
-<h3 align="left"> Email Address &nbsp&nbsp&nbsp&nbsp: &nbsp <span style="font-family:monospace;" > <a href="mailto:anirbandey@soufrabi.com" target="blank">anirbandey@soufrabi.com</a> </span> </h3>
+<h3 align="left"> Email Address &nbsp&nbsp&nbsp&nbsp&nbsp: &nbsp <span style="font-family:monospace;" > <a href="mailto:anirbandey@soufrabi.com" target="blank">anirbandey@soufrabi.com</a> </span> </h3>
 <h3 align="left"> Portfolio Website : &nbsp <span style="font-family:monospace;" > <a href="https://andy.soufrabi.com" target="blank">andy.soufrabi.com</a> </span> </h3>
 <h3 align="left"> Curriculum Vitae &nbsp: &nbsp <span style="font-family:monospace;" > <a href="https://drive.google.com/file/d/1pB-GzhBWMxZKjzoJ6vegkLhGcQDj5Amq/view?usp=drive_link" target="blank">google-drive-link</a> </span> </h3>
 </p>
