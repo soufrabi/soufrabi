@@ -21,8 +21,8 @@
 ### Languages and Tools:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,mongodb" />
-<img src="https://skillicons.dev/icons?i=cpp,c,python,latex,java,kotlin" />
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,neovim,vim,vscode,androidstudio" alt="tools" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,latex,java" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" alt="tools" />
 
 <br />
 
